@@ -40,6 +40,7 @@ TW.hoofdstuk({
   }]
 });
 ```
+Bij taalvakken kan `TW.vak({ rekenNaam: "Zelf typen", rekenIcoon: "⌨️" })` de naam van dit type aanpassen.
 Standaardtolerantie bij rekenen: 1% van het antwoord (minimaal 0,005); zet `tol` (absoluut) als dat niet past.
 Nieuwe vragen altijd achteraan toevoegen: de voortgang is gekoppeld aan de positie in de lijst.
 
